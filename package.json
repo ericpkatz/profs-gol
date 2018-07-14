@@ -1,0 +1,16 @@
+{
+  "name": "profs-gol",
+  "version": "1.0.0",
+  "description": "Fullstack Academy workshop.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
